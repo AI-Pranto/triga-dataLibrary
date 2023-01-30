@@ -1,0 +1,7 @@
+ace_file_generation_fast_mode  // Processing mode flg
+   nucl_file_name          tape20
+   temp                    296.0
+   ace_file_name           tape30
+   mcnp_dir_file_name      tape31
+   ace_label_data          "ACE file for JENDL-4 B11"
+   suffix_id               0.30

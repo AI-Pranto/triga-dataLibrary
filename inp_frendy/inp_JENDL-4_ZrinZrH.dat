@@ -1,0 +1,8 @@
+ace_file_generation_thermal_scatter_mode  // Processing mode flg
+   nucl_file_name              tape20
+   nucl_file_name_tsl          tape23
+   temp                        296.0
+   ace_file_name               tape30
+   mcnp_dir_file_name          tape31
+   suffix_id                   0.20
+   thermal_za_id_name          "zr_zrh"
