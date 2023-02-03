@@ -18,10 +18,10 @@ do
 
   cp -p "${LIB}" ./tape20
   if [ "${CASE}" == "HinH2O" ] || [ "${CASE}" == "HinZrH" ]; then
-    cp -p "${LIB_DIR}/H001.dat"  ./tape20
+    cp -p "${LIB_DIR}/H1.dat"  ./tape20
     cp -p "${LIB}"               ./tape23
   elif [ "${CASE}" == "ZrinZrH" ]; then
-    cp -p "${LIB_DIR}/Zr001.dat" ./tape20
+    cp -p "${LIB_DIR}/Zr90.dat" ./tape20
     cp -p "${LIB}"               ./tape23
   fi
 
