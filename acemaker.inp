@@ -1,0 +1,396 @@
+H1
+ACE    0
+ENDF   H1.dat
+MAT    0
+TEMP   1
+ 293.6
+SUFF  .01
+END
+H2
+ACE    0
+ENDF   H2.dat
+MAT    0
+TEMP   1
+ 293.6
+SUFF  .01
+END
+U235
+ACE    0
+ENDF   U235.dat
+MAT    0
+TEMP   1
+ 293.6
+SUFF  .01
+END
+U238
+ACE    0
+ENDF   U238.dat
+MAT    0
+TEMP   1
+ 293.6
+SUFF  .01
+END
+Zr90
+ACE    0
+ENDF   Zr90.dat
+MAT    0
+TEMP   1
+ 293.6
+SUFF  .01
+END
+Er166
+ACE    0
+ENDF   Er166.dat
+MAT    0
+TEMP   1
+ 293.6
+SUFF  .01
+END
+Er167
+ACE    0
+ENDF   Er167.dat
+MAT    0
+TEMP   1
+ 293.6
+SUFF  .01
+END
+Mo98
+ACE    0
+ENDF   Mo98.dat
+MAT    0
+TEMP   1
+ 293.6
+SUFF  .01
+END
+C0
+ACE    0
+ENDF   C0.dat
+MAT    0
+TEMP   1
+ 293.6
+SUFF  .01
+END
+Cr50
+ACE    0
+ENDF   Cr50.dat
+MAT    0
+TEMP   1
+ 293.6
+SUFF  .01
+END
+Cr52
+ACE    0
+ENDF   Cr52.dat
+MAT    0
+TEMP   1
+ 293.6
+SUFF  .01
+END
+Cr53
+ACE    0
+ENDF   Cr53.dat
+MAT    0
+TEMP   1
+ 293.6
+SUFF  .01
+END
+Cr54
+ACE    0
+ENDF   Cr54.dat
+MAT    0
+TEMP   1
+ 293.6
+SUFF  .01
+END
+Fe54
+ACE    0
+ENDF   Fe54.dat
+MAT    0
+TEMP   1
+ 293.6
+SUFF  .01
+END
+Fe56
+ACE    0
+ENDF   Fe56.dat
+MAT    0
+TEMP   1
+ 293.6
+SUFF  .01
+END
+Fe57
+ACE    0
+ENDF   Fe57.dat
+MAT    0
+TEMP   1
+ 293.6
+SUFF  .01
+END
+Fe58
+ACE    0
+ENDF   Fe58.dat
+MAT    0
+TEMP   1
+ 293.6
+SUFF  .01
+END
+Ni58
+ACE    0
+ENDF   Ni58.dat
+MAT    0
+TEMP   1
+ 293.6
+SUFF  .01
+END
+Ni60
+ACE    0
+ENDF   Ni60.dat
+MAT    0
+TEMP   1
+ 293.6
+SUFF  .01
+END
+Ni61
+ACE    0
+ENDF   Ni61.dat
+MAT    0
+TEMP   1
+ 293.6
+SUFF  .01
+END
+Ni62
+ACE    0
+ENDF   Ni62.dat
+MAT    0
+TEMP   1
+ 293.6
+SUFF  .01
+END
+Ni64
+ACE    0
+ENDF   Ni64.dat
+MAT    0
+TEMP   1
+ 293.6
+SUFF  .01
+END
+Mn55
+ACE    0
+ENDF   Mn55.dat
+MAT    0
+TEMP   1
+ 293.6
+SUFF  .01
+END
+Si28
+ACE    0
+ENDF   Si28.dat
+MAT    0
+TEMP   1
+ 293.6
+SUFF  .01
+END
+Si29
+ACE    0
+ENDF   Si29.dat
+MAT    0
+TEMP   1
+ 293.6
+SUFF  .01
+END
+Si30
+ACE    0
+ENDF   Si30.dat
+MAT    0
+TEMP   1
+ 293.6
+SUFF  .01
+END
+N14
+ACE    0
+ENDF   N14.dat
+MAT    0
+TEMP   1
+ 293.6
+SUFF  .01
+END
+N15
+ACE    0
+ENDF   N15.dat
+MAT    0
+TEMP   1
+ 293.6
+SUFF  .01
+END
+P31
+ACE    0
+ENDF   P31.dat
+MAT    0
+TEMP   1
+ 293.6
+SUFF  .01
+END
+S32
+ACE    0
+ENDF   S32.dat
+MAT    0
+TEMP   1
+ 293.6
+SUFF  .01
+END
+S33
+ACE    0
+ENDF   S33.dat
+MAT    0
+TEMP   1
+ 293.6
+SUFF  .01
+END
+S34
+ACE    0
+ENDF   S34.dat
+MAT    0
+TEMP   1
+ 293.6
+SUFF  .01
+END
+S36
+ACE    0
+ENDF   S36.dat
+MAT    0
+TEMP   1
+ 293.6
+SUFF  .01
+END
+B10
+ACE    0
+ENDF   B10.dat
+MAT    0
+TEMP   1
+ 293.6
+SUFF  .01
+END
+B11
+ACE    0
+ENDF   B11.dat
+MAT    0
+TEMP   1
+ 293.6
+SUFF  .01
+END
+Zr91
+ACE    0
+ENDF   Zr91.dat
+MAT    0
+TEMP   1
+ 293.6
+SUFF  .01
+END
+Zr92
+ACE    0
+ENDF   Zr92.dat
+MAT    0
+TEMP   1
+ 293.6
+SUFF  .01
+END
+Zr94
+ACE    0
+ENDF   Zr94.dat
+MAT    0
+TEMP   1
+ 293.6
+SUFF  .01
+END
+Zr96
+ACE    0
+ENDF   Zr96.dat
+MAT    0
+TEMP   1
+ 293.6
+SUFF  .01
+END
+Mg24
+ACE    0
+ENDF   Mg24.dat
+MAT    0
+TEMP   1
+ 293.6
+SUFF  .01
+END
+Al27
+ACE    0
+ENDF   Al27.dat
+MAT    0
+TEMP   1
+ 293.6
+SUFF  .01
+END
+Cu63
+ACE    0
+ENDF   Cu63.dat
+MAT    0
+TEMP   1
+ 293.6
+SUFF  .01
+END
+Cu65
+ACE    0
+ENDF   Cu65.dat
+MAT    0
+TEMP   1
+ 293.6
+SUFF  .01
+END
+Zn64
+ACE    0
+ENDF   Zn64.dat
+MAT    0
+TEMP   1
+ 293.6
+SUFF  .01
+END
+Pb207
+ACE    0
+ENDF   Pb207.dat
+MAT    0
+TEMP   1
+ 293.6
+SUFF  .01
+END
+H bound in H2O
+ACE     1
+ENDF    HinH2O.dat
+MAT     1
+    1
+TEMP    1
+    293.6
+THDAT   1
+    H_H2O 1 1
+    1001
+SUFF    .03
+END
+H bound in ZrH
+ACE    1
+ENDF   HinZrH.dat
+MAT    1
+ 7
+TEMP   1
+ 296.0
+THDAT  1
+ H_ZrH 1 1
+ 1001
+SUFF   .03
+END
+Zr bound in ZrH
+ACE    1
+ENDF   ZrinZrH.dat
+MAT    1
+ 58
+TEMP   1
+ 296.0
+THDAT  1
+ Zr_ZrH 1 1
+ 40090
+SUFF   .03
+END
