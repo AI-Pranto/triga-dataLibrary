@@ -56,7 +56,10 @@ isotopes = [("H1",    "n_0125_1-H-1.zip"),
 for iso in isotopes:
     iso_name, file_name = iso[0], iso[1]
     if file_name:
-        url = f"https://www-nds.iaea.org/public/download-endf/JENDL-4.0u2-20160106/{'n' if 'n_' in file_name else 'tsl'}/{file_name}"
+        if iso_name in ['C0', 'Si28', 'Si29']:
+            url = f"https://www-nds.iaea.org/public/download-endf/JEFF-3.3/n/{file_name}"
+        else:
+            url = f"https://www-nds.iaea.org/public/download-endf/JENDL-4.0u2-20160106/{'n' if 'n_' in file_name else 'tsl'}/{file_name}"
         r = requests.get(url)
         z = zipfile.ZipFile(io.BytesIO(r.content))
         z.extractall()
