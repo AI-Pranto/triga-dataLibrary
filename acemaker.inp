@@ -368,7 +368,7 @@ TEMP    1
 THDAT   1
     H_H2O 1 1
     1001
-SUFF    .03
+SUFF    .01
 END
 H bound in ZrH
 ACE    1
@@ -380,7 +380,7 @@ TEMP   1
 THDAT  1
  H_ZrH 1 1
  1001
-SUFF   .03
+SUFF   .01
 END
 Zr bound in ZrH
 ACE    1
@@ -392,5 +392,5 @@ TEMP   1
 THDAT  1
  Zr_ZrH 1 1
  40090
-SUFF   .03
+SUFF   .01
 END
