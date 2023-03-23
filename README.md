@@ -8,3 +8,8 @@ This repository contains scripts for processing nuclear data using ACEMAKER, FRE
 
 ## Neutron Flux ($\frac{d\phi}{d(\ln E)}$)
 ![](figs/triga-flux.png)
+
+## Code Performance
+![](figs/time-c.png)
+
+FRENDY takes the least amount of time for data processing, followed by NJOY and then ACEMAKER.
