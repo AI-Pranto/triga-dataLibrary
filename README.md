@@ -13,3 +13,8 @@ This repository contains scripts for processing nuclear data using ACEMAKER, FRE
 ![](figs/time-c.png)
 
 FRENDY takes the least amount of time for data processing, followed by NJOY and then ACEMAKER.
+
+## License
+Copyright (C) 2023 AI-Pranto<br>
+**triga-dataLibrary** is released under the MIT/X
+[license](https://en.wikipedia.org/wiki/MIT_License).
